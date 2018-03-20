@@ -1,0 +1,10 @@
+C:\Users\fravan7839\documents\visual studio 2017\Projects\Calculator Case Study\Calculator Case Study\bin\Debug\Calculator Case Study.exe.config
+C:\Users\fravan7839\documents\visual studio 2017\Projects\Calculator Case Study\Calculator Case Study\bin\Debug\Calculator Case Study.exe
+C:\Users\fravan7839\documents\visual studio 2017\Projects\Calculator Case Study\Calculator Case Study\bin\Debug\Calculator Case Study.pdb
+C:\Users\fravan7839\documents\visual studio 2017\Projects\Calculator Case Study\Calculator Case Study\obj\Debug\Calculator Case Study.csprojResolveAssemblyReference.cache
+C:\Users\fravan7839\documents\visual studio 2017\Projects\Calculator Case Study\Calculator Case Study\obj\Debug\Calculator_Case_Study.CalculatorLayout.resources
+C:\Users\fravan7839\documents\visual studio 2017\Projects\Calculator Case Study\Calculator Case Study\obj\Debug\Calculator_Case_Study.Properties.Resources.resources
+C:\Users\fravan7839\documents\visual studio 2017\Projects\Calculator Case Study\Calculator Case Study\obj\Debug\Calculator Case Study.csproj.GenerateResource.Cache
+C:\Users\fravan7839\documents\visual studio 2017\Projects\Calculator Case Study\Calculator Case Study\obj\Debug\Calculator Case Study.exe
+C:\Users\fravan7839\documents\visual studio 2017\Projects\Calculator Case Study\Calculator Case Study\obj\Debug\Calculator Case Study.pdb
+C:\Users\fravan7839\documents\visual studio 2017\Projects\Calculator Case Study\Calculator Case Study\obj\Debug\Calculator Case Study.csproj.CoreCompileInputs.cache
